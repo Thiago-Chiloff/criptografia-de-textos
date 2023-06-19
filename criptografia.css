@@ -1,0 +1,29 @@
+body {
+    background-color: #4682B4;
+}
+.container {
+    margin-left: 350px;
+    text-align: center;
+    height: 100%;
+    width: 50%;
+    background-color: #F8F8FF;
+    box-shadow: 5px 5px black;
+    border-radius: 50px;
+}
+button {
+    background-color: #6A5ACD;
+    width: 150px;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 5px 5px black;
+}
+.criptografia {
+    margin-bottom: 20px;
+}
+.criptografar {
+    margin-bottom: 2px;
+    border-radius: 50px;
+}
+button:active {
+    box-shadow: none;
+}
